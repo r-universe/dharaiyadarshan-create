@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "scaledescr"]
 	path = scaledescr
-	url = https://github.com/cran/scaledescr
+	url = https://github.com/dharaiyadarshan-create/scaledescr
